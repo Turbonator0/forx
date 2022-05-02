@@ -169,7 +169,7 @@ def main():
             formatted_price = f"{price:.10f}"
             while formatted_price.endswith("0"):
                 formatted_price = formatted_price[:-1]
-        print(to_data["sympol"] + formatted_price)
+        print(to_data["symbol"] + formatted_price)
 
 
 if __name__ == "__main__":
