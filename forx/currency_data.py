@@ -891,5 +891,5 @@ CRYPTO_CURRENCIES = {
     "RBN": {"name": "Ribbon Finance", "symbol": ""},
     "BICO": {"name": "BICONOMY (BICO)", "symbol": ""},
     "GFI": {"name": "Goldfinch Protocol", "symbol": ""},
-    "XMR": {"name":"Monero","symbol":""},
+    "XMR": {"name":"Monero","symbol":"Ɱ"},
 }
